@@ -3,7 +3,7 @@
 //  CountDisCount
 //
 //  Created by Haoran Guan on 4/6/12.
-//  Copyright (c) 2012 NYU. All rights reserved.
+//  Copyright (c) 2012 CountDisCount. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
